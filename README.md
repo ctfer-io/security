@@ -5,8 +5,8 @@ CTFer.io authors believes that security researchers should act responsibly regar
 **This high-level policy** applies to every repository of the organization.
 Specifically, every repository clarify its scope within `SECURITY.md` files, along security capabilities (SBOMs, signatures, ...).
 
-If you believe you have found any security vulnerability in own of our project, please reach out at ctfer-io@protonmail.com.
-In case of reporting any security vulnerability, please be noted that you may include following information:
+If you believe you have found any security vulnerability in one of our project, please reach out at ctfer-io@protonmail.com.
+In case of reporting a security vulnerability, please be noted that you may include following information:
 - the repository name
 - a detailed description with necessary screenshots
 - versions of components related to the vulnerability
